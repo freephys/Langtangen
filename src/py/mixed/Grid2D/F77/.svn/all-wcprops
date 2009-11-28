@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/F77
+END
+tests.r
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/F77/tests.r
+END
+gridloop.f
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/F77/gridloop.f
+END
+tests.verify
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/F77/tests.verify
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/F77/setup.py
+END
+make_F77_app.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/F77/make_F77_app.sh
+END
+gridloop1_session.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/F77/gridloop1_session.py
+END
+clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/F77/clean.sh
+END
+make_module_1.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/F77/make_module_1.sh
+END

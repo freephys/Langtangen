@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/python/!svn/ver/12/Langtangen/src/misc/f2py_callback
+END
+function_obj_callback.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/python/!svn/ver/12/Langtangen/src/misc/f2py_callback/function_obj_callback.py
+END
+function_obj_callback.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/python/!svn/ver/12/Langtangen/src/misc/f2py_callback/function_obj_callback.sh
+END
+nested_callback.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/python/!svn/ver/12/Langtangen/src/misc/f2py_callback/nested_callback.sh
+END
+somefile.f
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/python/!svn/ver/12/Langtangen/src/misc/f2py_callback/somefile.f
+END
+someotherfile.f
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/python/!svn/ver/12/Langtangen/src/misc/f2py_callback/someotherfile.f
+END

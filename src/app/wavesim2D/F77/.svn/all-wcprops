@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77
+END
+fcpp.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/fcpp.py
+END
+compile.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/compile.py
+END
+Wave2D.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/Wave2D.py
+END
+ranking.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/ranking.py
+END
+res.pico
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/res.pico
+END
+make.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/make.sh
+END
+clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/clean.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/README
+END
+F77WAVE.fcp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/F77WAVE.fcp
+END
+input
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/input
+END
+cpu.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/cpu.sh
+END
+autoedit.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/autoedit.py
+END
+runall.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/runall.sh
+END
+res.basunus
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/res.basunus
+END
+main.f
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/main.f
+END
+F77WAVE.f
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/F77WAVE.f
+END
+make_module_1.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/make_module_1.sh
+END
+make_module_2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/make_module_2.sh
+END
+res.skidbladnir
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/res.skidbladnir
+END

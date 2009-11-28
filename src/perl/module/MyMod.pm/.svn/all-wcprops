@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/python/!svn/ver/12/Langtangen/src/perl/module/MyMod.pm
+END
+MyMod.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/python/!svn/ver/12/Langtangen/src/perl/module/MyMod.pm/MyMod.pm
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/python/!svn/ver/12/Langtangen/src/perl/module/MyMod.pm/MANIFEST
+END
+Makefile.PL
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/python/!svn/ver/12/Langtangen/src/perl/module/MyMod.pm/Makefile.PL
+END
+Changes
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/python/!svn/ver/12/Langtangen/src/perl/module/MyMod.pm/Changes
+END
+test.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/python/!svn/ver/12/Langtangen/src/perl/module/MyMod.pm/test.pl
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/python/!svn/ver/12/Langtangen/src/perl/module/MyMod.pm/Makefile
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/python/!svn/ver/12/Langtangen/src/efficiency/datatrans/C++
+END
+datatrans1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/python/!svn/ver/12/Langtangen/src/efficiency/datatrans/C++/datatrans1.cpp
+END
+datatrans1_eff.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/python/!svn/ver/12/Langtangen/src/efficiency/datatrans/C++/datatrans1_eff.cpp
+END
+make.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/python/!svn/ver/12/Langtangen/src/efficiency/datatrans/C++/make.sh
+END
+clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/python/!svn/ver/12/Langtangen/src/efficiency/datatrans/C++/clean.sh
+END

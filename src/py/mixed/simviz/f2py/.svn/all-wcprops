@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/simviz/f2py
+END
+simviz_steering.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/simviz/f2py/simviz_steering.py
+END
+clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/simviz/f2py/clean.sh
+END
+make_module.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/simviz/f2py/make_module.sh
+END
+simvizGUI_steering.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/simviz/f2py/simvizGUI_steering.py
+END

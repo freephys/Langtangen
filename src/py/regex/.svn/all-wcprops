@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/python/!svn/ver/12/Langtangen/src/py/regex
+END
+.test1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/python/!svn/ver/12/Langtangen/src/py/regex/.test1.c
+END
+realre.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/python/!svn/ver/12/Langtangen/src/py/regex/realre.py
+END
+intervalre.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/python/!svn/ver/12/Langtangen/src/py/regex/intervalre.py
+END
+swap1.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/python/!svn/ver/12/Langtangen/src/py/regex/swap1.py
+END
+tests.r
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/python/!svn/ver/12/Langtangen/src/py/regex/tests.r
+END
+fdmgrid.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/python/!svn/ver/12/Langtangen/src/py/regex/fdmgrid.py
+END
+swap2.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/python/!svn/ver/12/Langtangen/src/py/regex/swap2.py
+END
+swap3.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/python/!svn/ver/12/Langtangen/src/py/regex/swap3.py
+END
+tests.verify
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/python/!svn/ver/12/Langtangen/src/py/regex/tests.verify
+END
+introre.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/python/!svn/ver/12/Langtangen/src/py/regex/introre.py
+END
+htmlsubst.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/python/!svn/ver/12/Langtangen/src/py/regex/htmlsubst.py
+END

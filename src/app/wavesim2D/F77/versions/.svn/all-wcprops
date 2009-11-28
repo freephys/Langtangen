@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/versions
+END
+F77WAVE_call_h00.fcp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/versions/F77WAVE_call_h00.fcp
+END
+F77WAVE_call_hxy.fcp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/versions/F77WAVE_call_hxy.fcp
+END
+F77WAVE_columntraverse.fcp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/versions/F77WAVE_columntraverse.fcp
+END
+main_wIO.f
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/versions/main_wIO.f
+END
+F77WAVE_loop_wiftest.fcp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/python/!svn/ver/12/Langtangen/src/app/wavesim2D/F77/versions/F77WAVE_loop_wiftest.fcp
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/C++/class
+END
+HelloWorld.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/C++/class/HelloWorld.h
+END
+HelloWorld2.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/C++/class/HelloWorld2.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/C++/class/main.cpp
+END
+HelloWorld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/C++/class/HelloWorld.cpp
+END
+HelloWorld2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/C++/class/HelloWorld2.cpp
+END
+make_C++.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/C++/class/make_C++.sh
+END

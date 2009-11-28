@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/convertptr
+END
+ext_gridloop.i
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/convertptr/ext_gridloop.i
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/convertptr/setup.py
+END
+make_Cpp_app.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/convertptr/make_Cpp_app.sh
+END
+clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/convertptr/clean.sh
+END
+gridloop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/convertptr/gridloop.cpp
+END
+convert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/convertptr/convert.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/convertptr/main.cpp
+END
+gridloop.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/convertptr/gridloop.h
+END
+MyArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/convertptr/MyArray.cpp
+END
+Grid2Deff2.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/convertptr/Grid2Deff2.py
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/convertptr/test.py
+END
+convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/convertptr/convert.h
+END
+MyArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/convertptr/MyArray.h
+END
+make_module_1.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/convertptr/make_module_1.sh
+END
+make_module_2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/convertptr/make_module_2.sh
+END

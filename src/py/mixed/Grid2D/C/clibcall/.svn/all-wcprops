@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C/clibcall
+END
+gridloop_C.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C/clibcall/gridloop_C.c
+END
+tests.r
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C/clibcall/tests.r
+END
+tests.verify
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C/clibcall/tests.verify
+END
+gridloop_C.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C/clibcall/gridloop_C.h
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C/clibcall/setup.py
+END
+gridloop_wrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C/clibcall/gridloop_wrap.c
+END
+clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C/clibcall/clean.sh
+END
+make_module_1.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C/clibcall/make_module_1.sh
+END
+make_module_2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C/clibcall/make_module_2.sh
+END

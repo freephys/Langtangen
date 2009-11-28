@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/plain
+END
+gridloop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/plain/gridloop.cpp
+END
+tests.r
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/plain/tests.r
+END
+tests.verify
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/plain/tests.verify
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/plain/setup.py
+END
+NumPyArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/plain/NumPyArray.cpp
+END
+clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/plain/clean.sh
+END
+make_module_1.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/plain/make_module_1.sh
+END
+make_module_2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/plain/make_module_2.sh
+END
+NumPyArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/Grid2D/C++/plain/NumPyArray.h
+END

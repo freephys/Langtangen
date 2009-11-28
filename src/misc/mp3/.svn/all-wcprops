@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/python/!svn/ver/12/Langtangen/src/misc/mp3
+END
+sample_playlist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/python/!svn/ver/12/Langtangen/src/misc/mp3/sample_playlist.txt
+END
+shuffle_playlist.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/python/!svn/ver/12/Langtangen/src/misc/mp3/shuffle_playlist.py
+END
+iTunes2m3u.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/python/!svn/ver/12/Langtangen/src/misc/mp3/iTunes2m3u.py
+END
+sample_playlist.m3u
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/python/!svn/ver/12/Langtangen/src/misc/mp3/sample_playlist.m3u
+END
+m3uplaylist2mstick.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/python/!svn/ver/12/Langtangen/src/misc/mp3/m3uplaylist2mstick.py
+END
+create_playlist.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/python/!svn/ver/12/Langtangen/src/misc/mp3/create_playlist.py
+END

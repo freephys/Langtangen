@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde
+END
+wave1D_extra.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde/wave1D_extra.py
+END
+wave1D_GUI.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde/wave1D_GUI.py
+END
+_tmp.f
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde/_tmp.f
+END
+diffusion2D_ode.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde/diffusion2D_ode.py
+END
+wave2D_func1_0.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde/wave2D_func1_0.py
+END
+clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde/clean.sh
+END
+hpl.res1
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde/hpl.res1
+END
+hpl.res2
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde/hpl.res2
+END
+wave2D_func1_loop.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde/wave2D_func1_loop.f
+END
+tests.r
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde/tests.r
+END
+wave1D_class.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde/wave1D_class.py
+END
+CurveViz.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde/CurveViz.py
+END
+tests.verify
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde/tests.verify
+END
+wave2D_func1_loop_v0.f
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde/wave2D_func1_loop_v0.f
+END
+test_wave1D_func1.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde/test_wave1D_func1.py
+END
+draw_formula.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde/draw_formula.py
+END
+wave1D_func1.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde/wave1D_func1.py
+END
+wave1D_func2.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde/wave1D_func2.py
+END
+wave2D_func1.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde/wave2D_func1.py
+END
+Graphics1D.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde/Graphics1D.py
+END
+wave1D_func3.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde/wave1D_func3.py
+END
+wave2D_func2.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde/wave2D_func2.py
+END
+wave1D_func4.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde/wave1D_func4.py
+END
+wave1D_func5.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/python/!svn/ver/12/Langtangen/src/py/examples/pde/wave1D_func5.py
+END

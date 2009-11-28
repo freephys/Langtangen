@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/python/!svn/ver/12/Langtangen/src/app/oscillator/F77
+END
+oscillator.f
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/python/!svn/ver/12/Langtangen/src/app/oscillator/F77/oscillator.f
+END
+sim.dat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/python/!svn/ver/12/Langtangen/src/app/oscillator/F77/sim.dat
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/python/!svn/ver/12/Langtangen/src/app/oscillator/F77/run
+END
+inp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/python/!svn/ver/12/Langtangen/src/app/oscillator/F77/inp
+END
+make.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/python/!svn/ver/12/Langtangen/src/app/oscillator/F77/make.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/python/!svn/ver/12/Langtangen/src/app/oscillator/F77/README
+END

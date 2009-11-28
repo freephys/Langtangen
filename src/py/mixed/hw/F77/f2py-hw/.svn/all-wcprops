@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/F77/f2py-hw
+END
+tests.r
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/F77/f2py-hw/tests.r
+END
+tests.verify
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/F77/f2py-hw/tests.verify
+END
+hwa.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/F77/f2py-hw/hwa.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/F77/f2py-hw/setup.py
+END
+clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/F77/f2py-hw/clean.sh
+END
+make_module_1.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/F77/f2py-hw/make_module_1.sh
+END
+make_module_2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/F77/f2py-hw/make_module_2.sh
+END

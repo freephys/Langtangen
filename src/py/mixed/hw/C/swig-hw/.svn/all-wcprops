@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/C/swig-hw
+END
+tests.r
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/C/swig-hw/tests.r
+END
+hw.i
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/C/swig-hw/hw.i
+END
+tests.verify
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/C/swig-hw/tests.verify
+END
+hwa.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/C/swig-hw/hwa.py
+END
+hw2.i
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/C/swig-hw/hw2.i
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/C/swig-hw/setup.py
+END
+setup2.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/C/swig-hw/setup2.py
+END
+clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/C/swig-hw/clean.sh
+END
+make_module_1.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/C/swig-hw/make_module_1.sh
+END
+make_module_2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/C/swig-hw/make_module_2.sh
+END
+make_module_3.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/C/swig-hw/make_module_3.sh
+END

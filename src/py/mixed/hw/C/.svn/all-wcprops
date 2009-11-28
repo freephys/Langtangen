@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/C
+END
+hw.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/C/hw.c
+END
+hw.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/C/hw.h
+END
+make_C.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/python/!svn/ver/12/Langtangen/src/py/mixed/hw/C/make_C.sh
+END
